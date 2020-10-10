@@ -1,6 +1,6 @@
 // add basic c or c++ codes here
 
-
+print("hello my dear friend")
 cout<<"Hello World";
 cout<<"good morning";
 cin>>a;
